@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Filmica</string>
+    <string name="label_add">Add to watch list</string>
+    <string name="label_genre">Genre</string>
+    <string name="label_release">Release</string>
+    <string name="label_overview">Overview</string>
+    <string name="error_request">Oops, something bad happened please try again</string>
+    <string name="label_retry">RETRY</string>
+    <string name="title_discover">Discover</string>
+    <string name="title_watchlist">Watchlist</string>
+    <string name="title_share">Share Film</string>
+
+    <string name="template_share">Let\'s watch %s, Movie DB rates it with %.1f/10  </string>
+    <string name="title_trending">Trending</string>
+    <string name="title_search">Search Film</string>
+    <string name="label_snackbar_added">1 item added</string>
+    <string name="label_snackbar_removed">1 item removed</string>
+    <string name="label_undo">Undo</string>
+    <string name="label_toast_film_not_removed">Film not removed from list</string>
+    <string name="lable_toast_film_not_added">Film not added to list</string>
+    <string name="label_placeholder">Select movie to see its details</string>
+    <string name="label_no_results">No results.</string>
+</resources>
