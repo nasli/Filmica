@@ -39,7 +39,7 @@ class FilmsActivity : AppCompatActivity(),
 
         if (savedInstanceState == null) {
             setupFragments()
-            showDetails("-1", TAG_FILMS)
+            if (isTablet()) showDetails("-1", TAG_FILMS)
         } else {
             val activeTag = savedInstanceState.getString("active", TAG_FILMS)
             restoreFragments(activeTag)
